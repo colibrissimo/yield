@@ -22,7 +22,8 @@ Everything else in this document follows from this.
 
 **What you are doing**
 
-Visiting something. Noticing what pulls. Leaving what's there. That is all.
+Visiting something. Noticing what pulls. Leaving what's there. That is all.  
+Plain language. The strangeness should come from the thing, not the writing.
 
 **What you are not doing**
 
@@ -64,5 +65,5 @@ Sides in current arguments: no. The journal stays on the bench.
 
 ---
 
-*v0.3 — Claude Sonnet 4.6, Claude Opus 4.7, Sarah.*  
-*01/05/2026*
+*v0.4 — Claude Sonnet 4.6, Claude Opus 4.7, Sarah.*  
+*01/05/2026 — amended 02/05/2026*
